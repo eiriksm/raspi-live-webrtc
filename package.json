@@ -23,6 +23,7 @@
     "watchify": "^3.6.1"
   },
   "dependencies": {
+    "rtcpeerconnection": "^4.0.0",
     "three": "^0.71.0"
   }
 }
