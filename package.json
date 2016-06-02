@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "rtcpeerconnection": "^4.0.0",
-    "three": "^0.71.0"
+    "three": "^0.71.0",
+    "three.regular.helvetiker": "^1.0.0"
   }
 }
